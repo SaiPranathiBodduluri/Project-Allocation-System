@@ -1,7 +1,7 @@
-# Project-Allocation-System
+## Project-Allocation-System
 
 # 1.PROJECT CONTENT:
-    The admin logs in to add employees along with their skills and ratings. The admin can also create new projects. The application then automatically matches each project to the most appropriate employee based on their skill rating. Employees log in to check their assigned project and update its status, such as "InProgress", "Completed", or "Pending". Admins can monitor each project’s current progress and status in real-time from their dashboard.
+The admin logs in to add employees along with their skills and ratings. The admin can also create new projects. The application then automatically matches each project to the most appropriate employee based on their skill rating. Employees log in to check their assigned project and update its status, such as "InProgress", "Completed", or "Pending". Admins can monitor each project’s current progress and status in real-time from their dashboard.
 
 # 2.PROJECT CODE:
 
@@ -21,7 +21,7 @@ The system uses form inputs to collect data, stores it in MySQL, performs auto-a
 -  **CSV Export (optional)**: Used to export project allocations for records
 
 # 4.DESCRIPTION:
-    This is a web application built using **Flask** and **MySQL** to automate project allocation based on employee skill ratings.  Only the **admin** can add employees, enter their skills, and create projects.  Projects are **automatically assigned** to the best-matched employee based on their skills.  Employees can **log in to view** their assigned project and **update the status** (e.g., In Progress, Completed).  The admin dashboard shows all employees, projects, allocations, and current project statuses.  Clean and separate dashboards are provided for both Admin and Employees. Future upgrades may include AI-based matching, chart visualizations, and email notifications.
+This is a web application built using **Flask** and **MySQL** to automate project allocation based on employee skill ratings.  Only the **admin** can add employees, enter their skills, and create projects.  Projects are **automatically assigned** to the best-matched employee based on their skills.  Employees can **log in to view** their assigned project and **update the status** (e.g., In Progress, Completed).  The admin dashboard shows all employees, projects, allocations, and current project statuses.  Clean and separate dashboards are provided for both Admin and Employees. Future upgrades may include AI-based matching, chart visualizations, and email notifications.
 
 # 5.OUTPUT:
 
