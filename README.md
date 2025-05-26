@@ -1,6 +1,7 @@
 # Project-Allocation-System
 
 1.PROJECT CONTENT:
+
     The admin logs in to add employees along with their skills and ratings. The admin can also create new projects. The application then automatically matches each project to the most appropriate employee based on their skill rating. Employees log in to check their assigned project and update its status, such as "InProgress", "Completed", or "Pending". Admins can monitor each project’s current progress and status in real-time from their dashboard.
 
 2.PROJECT CODE:
@@ -14,6 +15,7 @@ Folder structure:
 The system uses form inputs to collect data, stores it in MySQL, performs auto-allocation based on skills, and renders dynamic pages.
 
 3.KEY TECHNOLOGIES:
+
   **Flask**: Backend framework for Python
 - **MySQL**: To store employee, project, and allocation data
 - **HTML/CSS & Javascript**: For creating the web UI
