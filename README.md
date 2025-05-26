@@ -30,8 +30,8 @@ The system uses form inputs to collect data, stores it in MySQL, performs auto-a
 - **Employee Dashboard**: Shows the specific project assigned to the logged-in employee and lets them update its progress.
 These outputs make the system efficient for both managing and working on tasks.
 ![Screenshot 2025-05-26 212644](https://github.com/user-attachments/assets/cef78aae-ecea-4b2e-b4d6-31119233e8b6)
-![image](https://github.com/user-attachments/assets/e9888989-acc6-4a73-9457-2b7019320fb9)
-![image](https://github.com/user-attachments/assets/2234f470-e334-485e-ab56-5d310e622aa6)
+![image](https://github.com/user-attachments/assets/d21c8111-89ba-4a3c-8e80-89af0efa6151)
+![image](https://github.com/user-attachments/assets/ac01a30b-aea9-4e29-bb01-ad62c20cc181)
 
 6.FUTURE RESEARCH:
 
