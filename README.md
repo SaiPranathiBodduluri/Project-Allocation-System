@@ -1,6 +1,6 @@
-## Project-Allocation-System
+# Project-Allocation-System
 
-# 1.PROJECT CONTENT:
+## 1.PROJECT CONTENT:
 The admin logs in to add employees along with their skills and ratings. The admin can also create new projects. The application then automatically matches each project to the most appropriate employee based on their skill rating. Employees log in to check their assigned project and update its status, such as "InProgress", "Completed", or "Pending". Admins can monitor each project’s current progress and status in real-time from their dashboard.
 
 # 2.PROJECT CODE:
